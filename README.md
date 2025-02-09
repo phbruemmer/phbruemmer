@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 I'm Drip314</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drip314&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phbruemmer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -28,5 +28,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drip314/Drip314/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Drip314/rip314/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/phbruemmer/phbruemmer/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
